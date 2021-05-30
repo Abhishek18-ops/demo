@@ -2,3 +2,8 @@ test
 teat
 tesr
 hgjhgj
+
+
+GitHub isn't able to authenticate you. So, either you aren't setup with an SSH key, because you haven't set one up on your machine, or your key isn't associated with your GitHub account.
+
+You can also use the HTTPS URL instead of the SSH/git URL to avoid having to deal with SSH keys. This is GitHub's recommended method.
